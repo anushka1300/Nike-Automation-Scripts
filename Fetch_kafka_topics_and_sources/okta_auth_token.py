@@ -2,9 +2,6 @@ import base64
 import requests
 
 
-# import cachetools
-# from cachetools import cached, TTLCache
-
 class OktaTokenGenerator:
 
     #   cache = TTLCache(maxsize=10, ttl=1800)
